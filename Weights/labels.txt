@@ -1,2 +1,2 @@
-0 Good / Perfect
-1 Abnormal
+0 Abnormal
+1 Good / Perfect
