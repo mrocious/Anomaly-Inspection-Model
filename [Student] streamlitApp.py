@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import os
-from anomaly_prediction import predict_image
+from predict_tf import predict_image
 
 # Set up the page layout
 st.set_page_config(page_title="InspectorsAlly", page_icon=":camera:")
