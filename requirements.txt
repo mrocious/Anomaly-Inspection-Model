@@ -11,3 +11,4 @@ torchvision==0.15.1
 numpy==1.23.0
 streamlit==1.26.0
 opencv-python
+tensorflow
